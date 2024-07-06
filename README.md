@@ -24,7 +24,7 @@
     <img src="images/logo.png" alt="Logo" width="200" height="120">
   </a>
 
-  <h3 align="center">Project Title</h3>
+  <h3 align="center">Tiny Board Chronicles</h3>
 
   <p align="center">
     <br />
