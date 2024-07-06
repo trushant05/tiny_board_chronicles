@@ -74,7 +74,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-This project is an exploration of my passions and skills in the field of C++ programming, game development, and robotics. It serves as a comprehensive knowledge base that documents my journey and learnings in these areas. 
+A space for exploring, experimenting with, and sharing insights on various single board computers (SBCs) like Jetson, Raspberry Pi, and more. Dive into detailed guides, project ideas, and technical deep dives to unlock the full potential of these compact computing powerhouses.
 
 I created this project for a great cause: to inspire others and contribute to the community by sharing my knowledge and experiences. Here's why I embarked on this journey:
 * **Learning C++**: I've always wanted to deepen my understanding of C++ and build a solid foundation in this powerful programming language.
