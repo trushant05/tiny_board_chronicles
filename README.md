@@ -20,7 +20,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href=""https://github.com/trushant05/mkdocs_material_template>
+  <a href=""https://github.com/trushant05/tiny_board_chronicles>
     <img src="images/logo.png" alt="Logo" width="200" height="120">
   </a>
 
@@ -28,14 +28,14 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/trushant05/mkdocs_material_template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/trushant05/tiny_board_chronicles"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/trushant05/mkdocs_material_template">View Demo</a>
+    <a href="https://github.com/trushant05/tiny_board_chronicles">View Demo</a>
     ·
-    <a href="https://github.com/trushant05/mkdocs_material_template/issues">Report Bug</a>
+    <a href="https://github.com/trushant05/tiny_board_chronicles/issues">Report Bug</a>
     ·
-    <a href="/https://github.com/trushant05/mkdocs_material_template/issues">Request Feature</a>
+    <a href="/https://github.com/trushant05/tiny_board_chronicles/issues">Request Feature</a>
   </p>
 </div>
 
@@ -162,7 +162,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/trushant05/mkdocs_material_template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/trushant05/tiny_board_chronicles/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -224,16 +224,16 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/trushant05/mkdocs_material_template.svg?style=for-the-badge
-[contributors-url]: https://github.com/trushant05/mkdocs_material_template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/trushant05/mkdocs_material_template.svg?style=for-the-badge
-[forks-url]: https://github.com/trushant05/mkdocs_material_template/forks
-[stars-shield]: https://img.shields.io/github/stars/trushant05/mkdocs_material_template.svg?style=for-the-badge
-[stars-url]: https://github.com/trushant05/mkdocs_material_template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/trushant05/mkdocs_material_template.svg?style=for-the-badge
-[issues-url]: https://github.com/trushant05/mkdocs_material_template/issues
-[license-shield]: https://img.shields.io/github/license/trushant05/mkdocs_material_template.svg?style=for-the-badge
-[license-url]: https://github.com/trushant05/mkdocs_material_template/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/trushant05/tiny_board_chronicles.svg?style=for-the-badge
+[contributors-url]: https://github.com/trushant05/tiny_board_chronicles/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/trushant05/tiny_board_chronicles.svg?style=for-the-badge
+[forks-url]: https://github.com/trushant05/tiny_board_chronicles/forks
+[stars-shield]: https://img.shields.io/github/stars/trushant05/tiny_board_chronicles.svg?style=for-the-badge
+[stars-url]: https://github.com/trushant05/tiny_board_chronicles/stargazers
+[issues-shield]: https://img.shields.io/github/issues/trushant05/tiny_board_chronicles.svg?style=for-the-badge
+[issues-url]: https://github.com/trushant05/tiny_board_chronicles/issues
+[license-shield]: https://img.shields.io/github/license/trushant05/tiny_board_chronicles.svg?style=for-the-badge
+[license-url]: https://github.com/trushant05/tiny_board_chronicles/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/trushant-adeshara/
 [product-screenshot]: images/screenshot.jpeg
