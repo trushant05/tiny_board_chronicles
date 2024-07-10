@@ -1,6 +1,6 @@
-# Welcome to MkDocs Template
+# Tiny Board Chronicles
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+![](assets/logo.png)
 
 ## Commands
 
@@ -16,12 +16,3 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
 
-## Icons and Emojs
-
-:smile:
-
-:fontawesome-regular-face-laugh-wink:
-
-:fontawesome-brands-twitter:{ .twitter }
-
-:octicons-heart-fill-24:{ .heart }

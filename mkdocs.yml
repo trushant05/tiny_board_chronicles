@@ -1,11 +1,14 @@
-site_name: My Docs Template
+site_name: Tiny Board Chronicles
 theme:
     name: material
+    logo: assets/logo.png
     features:
         - navigation.tabs
+        - navigation.tabs.sticky
         - navigation.sections
+        - navigation.path
+        - navigation.indexes
         - toc.integrate
-        - navigation.top
         - search.suggest
         - search.highlight
         - content.tabs.link
@@ -17,14 +20,39 @@ theme:
           toggle:
             icon: material/toggle-switch-off-outline
             name: Switch to dark mode
-          primary: teal
+          primary: black
           accent: purple
         - scheme: slate
           toggle:
             icon: material/toggle-switch
             name: Switch to light mode
-          primary: teal
+          primary: black
           accent: lime
+    font:
+        text: Roboto
+        code: Roboto Mono
+
+
+nav:
+    - Home: index.md
+    - Jetson Ecosystem:
+        - Overview: jetson/index.md
+        - Jetson Nano ( 2 GB ): jetson/jetson_nano2.md
+        - Jetson Nano ( 4 GB ): jetson/jetson_nano4.md
+        - Jetson Mate Cluster: jetson/jetson_mate.md
+    - Jetson Orin Ecosystem:
+        - Overview: jetson_orin/index.md
+        - Jetson Orin Nano: jetson_orin/jetson_orin_nano.md
+        - Jetson Orin AGX: jetson_orin/jetson_orin_agx.md
+    - AMD Kria Ecosystem:
+        - Overview: amd/index.md
+        - AMD Kria KR260: amd/kr260.md
+    - Raspberry Pi Ecosystem:
+        - Overview: rpi/index.md
+        - Raspberry Pi Zero: rpi/zero.md
+        - Raspberry Pi 4 ( 8 GB ): rpi/4_8gb.md
+        - Raspberry Pi 5 ( 8 GB ): rpi/5_8gb.md
+        
 
 extra:
    social:
