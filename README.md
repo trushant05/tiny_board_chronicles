@@ -21,7 +21,7 @@
 <br />
 <div align="center">
   <a href=""https://github.com/trushant05/tiny_board_chronicles>
-    <img src="docs/assets/img/sbcs.png" alt="Logo" width="650">
+    <img src="docs/assets/img/logo.png" alt="Logo" width="550">
   </a>
 
   <h3 align="center">Tiny Board Chronicles</h3>
@@ -236,7 +236,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/trushant05/tiny_board_chronicles/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/trushant-adeshara/
-[product-screenshot]: images/screenshot.jpeg
+[product-screenshot]: docs/assets/img/sbcs.png
 
 [C-badge]: https://img.shields.io/badge/C-white?style=flat
 [C-url]: https://www.learn-c.org/
