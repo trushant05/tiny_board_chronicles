@@ -1,7 +1,7 @@
 site_name: Tiny Board Chronicles
 theme:
     name: material
-    logo: assets/logo.png
+    logo: assets/img/logo.png
     features:
         - navigation.tabs
         - navigation.tabs.sticky
@@ -52,7 +52,9 @@ nav:
         - Raspberry Pi Zero: rpi/zero.md
         - Raspberry Pi 4 ( 8 GB ): rpi/4_8gb.md
         - Raspberry Pi 5 ( 8 GB ): rpi/5_8gb.md
-        
+
+extra_css:
+    - assets/css/extra.css        
 
 extra:
    social:
