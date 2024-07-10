@@ -21,7 +21,7 @@
 <br />
 <div align="center">
   <a href=""https://github.com/trushant05/tiny_board_chronicles>
-    <img src="docs/assets/img/sbcs.png" alt="Logo" width="800">
+    <img src="docs/assets/img/sbcs.png" alt="Logo" width="650">
   </a>
 
   <h3 align="center">Tiny Board Chronicles</h3>
