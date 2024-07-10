@@ -74,31 +74,16 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-A space for exploring, experimenting with, and sharing insights on various single board computers (SBCs) like Jetson, Raspberry Pi, and more. Dive into detailed guides, project ideas, and technical deep dives to unlock the full potential of these compact computing powerhouses.
-
-I created this project for a great cause: to inspire others and contribute to the community by sharing my knowledge and experiences. Here's why I embarked on this journey:
-* **Learning C++**: I've always wanted to deepen my understanding of C++ and build a solid foundation in this powerful programming language.
-* **Robotics**: I love building robots and find it incredibly fun to share my learning process and projects with others who share the same passion.
-* **Game Development**: Games made in Unity have always inspired me, and I aspired to create one of my own, turning my creative ideas into interactive experiences.
-
-This template might not cover all your requirements for an ideal project template, and that's okay. My role is to provide a starting point, and now it's your turn to customize and expand it to fit your specific needs. 
-
-Use this `README.md` as the foundation for your project documentation and let your creativity and expertise take it from here.
-
+<p align="justify"> A space for exploring, experimenting with, and sharing insights on various single board computers (SBCs) like Jetson, Raspberry Pi, and more. Dive into detailed guides, project ideas, and technical deep dives to unlock the full potential of these compact computing powerhouses.</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+<p align="justify">
+This documentation is made with <a href="https://squidfunk.github.io/mkdocs-material/">Material for MKDocs</a> which is a powerful documentation framework on top of <a href="https://www.mkdocs.org/">MKdocs</a>, a static site generator for project documentation.</p>
 
-* [![C][C-badge]][C-url]
-* [![C++][Cpp-badge]][Cpp-url]
-* [![Python][Python-badge]][Python-url]
-* [![MATLAB][Matlab-badge]][Matlab-url]
-* [![JavaScript][Js-badge]][Js-url]
-* [![Rust][Rust-badge]][Rust-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -107,34 +92,31 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* Considering you are either on Linux/MacOS and have Python 3 already installed with pip:
   ```sh
-  npm install npm@latest -g
+  python --version
+  pip --version
   ```
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_Next step would be to install mkdocs-material, you could do this either system wide or use virtual environment like venv, conda, etc._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Install mkdocs-material with pip:
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   pip install mkdocs-material
    ```
-3. Install NPM packages
+2. Run mkdocs locally:
    ```sh
-   npm install
+   mkdocs server
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+
+Note: Make sure that your current working directory contains mkdocs.yml file.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -143,9 +125,7 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+If you would like to add new sections, you could add them to nav section in mkdocs.yml file and make a corresponding md file in the docs directory. If this is the first time you are working with Material for MKDocs, please refere to this [Documentation](https://squidfunk.github.io/mkdocs-material/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -154,13 +134,10 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [x] Base Template for the Tiny Board Chronicles Site
+- [ ] Add Jetson Orin Nano Installation Guide
+- [ ] Add Jetson Orin Nano Docker Guide
+- [ ] Add Jetson Orin Nano Accessories Guide
 
 See the [open issues](https://github.com/trushant05/tiny_board_chronicles/issues) for a full list of proposed features (and known issues).
 
@@ -178,9 +155,12 @@ Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+3. Complete base setup
+4. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+5. Push to the Branch (`git push origin feature/AmazingFeature`)
+6. Open a Pull Request
+
+Note: Make sure to exlude unnecessary files like your virtual environments while commiting your branch.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
