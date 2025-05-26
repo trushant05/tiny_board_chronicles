@@ -39,3 +39,5 @@ As we move towards a more connected and intelligent world, the role of SBCs in A
 
 <p class="justified-content">
 With Tiny Board Chronicles, my aim is to provide you go-to resource for unlocking the full potential of these incredible devices. Join me as we explore the endless possibilites of edge computing, and embark on exciting projects that push the boudnaries of what these tiny boards can achieve.</p>
+
+Trigger Github Workflow
